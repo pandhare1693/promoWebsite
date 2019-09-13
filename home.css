@@ -1,0 +1,22 @@
+/* Everything in here is a COMMENT CODE */
+
+body
+{
+        /*background-color: aqua;*/
+    background-image: url("img/backround.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h4
+{
+    color: darkgoldenrod;
+}
+
+
+/* Style a specific section of the page that has an ID= using the # */
+#textEnhance
+{
+   color: midnightblue;
+    background-image: linear-gradient(deeppink,lightpink);
+}
